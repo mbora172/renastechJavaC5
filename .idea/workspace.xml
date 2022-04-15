@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e90b8c4-ac09-4c4b-aa90-e90e78e1b6fd" name="Changes" comment="dsf">
+      <change afterPath="$PROJECT_DIR$/src/a_homework/day_3_8_task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_homework/late.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_homework/late6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/renastechJavaC5/a_homework/apr8_task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/renastechJavaC5/a_homework/apr_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/renastechJavaC5/a_homework/apr_8falanfishmekan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/renastechJavaC5/a_homework/apr_8last_task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_homework/day_3_8_2ndtask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_homework/day_3_8_2ndtask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_homework/klnjk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_homework/klnjk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +64,22 @@
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
   </component>
-  <component name="RunManager" selected="Application.a_homework.day_4_8_">
-    <configuration name="a_homework.day_4_8_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_homework.day_4_8_" />
+  <component name="RunManager" selected="Application.late6">
+    <configuration name="c1_comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_variables.c1_comments" />
+      <module name="renastechJavaC5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day_3_8_task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_homework.day_3_8_task3" />
       <module name="renastechJavaC5" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a_homework.day_4_8_last_task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_homework.day_4_8_last_task" />
+    <configuration name="klnjk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_homework.klnjk" />
       <module name="renastechJavaC5" />
       <extension name="coverage">
         <pattern>
@@ -82,21 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18.c1" />
-      <module name="renastechJavaC5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day_4_8_falanfishmekan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_homework.day_4_8_falanfishmekan" />
+    <configuration name="late" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_homework.late" />
       <module name="renastechJavaC5" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day_4_8_task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_homework.day_4_8_task3" />
+    <configuration name="late6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_homework.late6" />
       <module name="renastechJavaC5" />
       <extension name="coverage">
         <pattern>
@@ -123,9 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.c1" />
-        <item itemvalue="Application.a_homework.day_4_8_last_task" />
-        <item itemvalue="Application.a_homework.day_4_8_" />
+        <item itemvalue="Application.late6" />
+        <item itemvalue="Application.late" />
+        <item itemvalue="Application.klnjk" />
+        <item itemvalue="Application.c1_comments" />
+        <item itemvalue="Application.day_3_8_task3" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +178,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -271,15 +288,6 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/a_homework/day_4_8_last_task.java</url>
-          <line>9</line>
-          <properties class="a_homework.day_4_8_last_task" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/a_homework/day_4_8_falanfishmekan.java</url>
           <line>11</line>
           <properties class="a_homework.day_4_8_falanfishmekan" method="main">
@@ -287,6 +295,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/a_homework/klnjk.java</url>
+          <line>14</line>
+          <properties class="a_homework.klnjk" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/a_homework/late.java</url>
+          <line>6</line>
+          <properties class="a_homework.late" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/day10/C1_StringMethods.java</url>
